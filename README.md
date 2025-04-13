@@ -1,13 +1,39 @@
-# I am 🔥.  Dimas bayu
-beginner website security tester & web developer
-
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dmzby) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dmzby26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dimas-Bp) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dmzby_123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasbayyp@gmail.com) 
+### Hello I am Bayu 👋 
 
 
+<img align="center" src="https://cardivo.vercel.app/api?name=bayu&description=Hi,%20i%27m%20bayu%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/dmzby&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@dmzby26&github=dmzby&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20dmzby"/>
 
-# Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+------
+
+<p align='center'>
+  <a href="https://wa.me/6281333097059"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
+  <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
+  <a href="https://instagram.com/dmzby26"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+</p>
+
+</br>
+
+<p align='center'>
+- 🌱 I’m currently learnin
+</p>
+<p align='center'>
+   - php
+</p>
+<p align='center'>
+  - Laravel
+</p>
+<p align='center'>
+🔭 I’m currently working on My Beautiful House
+</p>
+<p align='center'>
+   ⚡ Fun fact: I really like Indomie
+ </p>
+
+ ------
+<p align="center"><a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api?username=dmzby&show_icons=true&theme=tokyonight"></a></p>
+<p align="center">
+  <a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=default&hide_border=false)<br/>
 
