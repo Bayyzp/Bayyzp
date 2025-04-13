@@ -38,5 +38,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=light&hide_border=false)<br/>
 
 
-<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" alt="Coding Typing GIF" width="100"/>
+
 
