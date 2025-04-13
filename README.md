@@ -31,7 +31,7 @@
 
  ------
 <p align="center"><a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api?username=dmzby&show_icons=true&theme=light"></a></p>
-<p align="center">
+<p align="center" width="100%">
   <a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzby&show_icons=true&theme=light" /></a>
 </p>
 
