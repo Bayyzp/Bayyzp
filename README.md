@@ -8,7 +8,7 @@
 <p align='center'>
   <a href="https://wa.me/6281333097059"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
   <a href="https://smkn5solo.sch.id"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
-  <a href="https://instagram.com/dmzby26"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+  <a href="https://instagram.com/dmzby26"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
 </p>
 
 </br>
@@ -32,7 +32,7 @@
  ------
 <p align="center"><a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api?username=dmzby&show_icons=true&theme=light"></a></p>
 <p align="center">
-  <a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzby&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzby&show_icons=true&theme=light" /></a>
 </p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=default&hide_border=false)<br/>
