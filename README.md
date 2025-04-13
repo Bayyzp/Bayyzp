@@ -38,5 +38,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=default&hide_border=false)<br/>
 
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="100 animation="blink 1s infinite" src="https://i.imgflip.com/65efzo.gif"  />
 
