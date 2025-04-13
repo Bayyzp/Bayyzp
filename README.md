@@ -35,8 +35,8 @@
   <a href="https://github.com/dmzby"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzby&show_icons=true&theme=light" /></a>
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=default&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=light&hide_border=false)<br/>
 
 
-<img align="center" height="100" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"  
+<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" alt="Coding Typing GIF" width="100"/>
 
