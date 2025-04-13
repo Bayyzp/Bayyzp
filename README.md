@@ -38,5 +38,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dmzby&theme=default&hide_border=false)<br/>
 
 
-<img align="center" height="100 animation="blink 1s infinite" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" src="https://tenor.com/id/view/coding-typing-pc-laptop-power-gif-21599707"  
 
