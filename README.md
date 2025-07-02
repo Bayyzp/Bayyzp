@@ -1,7 +1,7 @@
 ### Hello I am Raja iblis 👋 
 
 
-<img align="center" src="https://cardivo.vercel.app/api?name=bayu&description=Hi,%20i%27m%20bayu%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/dmzby&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@dmzby26&github=dmzby&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20dmzby"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=rajaiblis&description=Hi,%20i%27m%20bayu%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/dmzby&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@dmzby26&github=dmzby&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20dmzby"/>
 
 ------
 
